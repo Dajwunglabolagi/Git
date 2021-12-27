@@ -6,7 +6,7 @@ namespace Git_Folder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Git_Folder");
         }
     }
 }
